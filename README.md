@@ -156,7 +156,7 @@ min_tracking_confidence = 0.3
 
 3. **Visual Interface** *(enhanced from base)*
    - OpenCV for camera feed display
-   - Real-time gesture labels and confidence scores
+   - Real-time gesture labels
    - Hand landmark visualization
    - Game-specific screen overlay
 
