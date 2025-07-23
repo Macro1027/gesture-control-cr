@@ -22,7 +22,7 @@ Control Clash Royale using hand gestures detected through your webcam! This proj
 
 ### Game Integration
 - **Automated Card Selection**: Select cards 1-4 using finger gestures
-- **Drag & Drop Deployment**: Pinch gesture to drag cards, open palm to deploy
+- **Drag & Drop Deployment**: Point gesture to drag cards, open palm to deploy
 - **Emote System**: Quick access to emotes using gesture commands
 - **Visual Feedback**: Real-time gesture recognition display with bounding boxes
 
@@ -43,9 +43,8 @@ Control Clash Royale using hand gestures detected through your webcam! This proj
 ### Right Hand (Deployment & Actions)
 | Gesture | Action | Description |
 |---------|--------|-------------|
-| Pinch | Drag Card | Pinch to position card |
+| 1 Finger | Drag Card | Point finger to position card |
 | Open Palm | Deploy Card | Open hand to release/deploy |
-| 1 Finger | Activate Skill | Point to activate abilities |
 | Fist | Wait/Hold | Closed fist to pause |
 
 ## 🛠️ Installation
